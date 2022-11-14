@@ -1,5 +1,5 @@
 # Similar_Chess_Positions
-Retrieval of Similar Chess Positions
+An implementation of 'Retrieval of Similar Chess Positions' (Ganguly et al. 2014)
 
 numpy, python-chess, rank_bm25
 
